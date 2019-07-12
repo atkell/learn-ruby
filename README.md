@@ -1,2 +1,2 @@
 # learn-ruby
-My adventure in learning python the "hard way".
+My adventure in learning Ruby the "hard way".
