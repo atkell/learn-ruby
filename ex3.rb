@@ -1,3 +1,7 @@
+puts "-" * 30
+puts "Exercise 3: Numbers and Math"
+puts "-" * 30
+
 # Print a string
 puts "I will now count my chickens:"
 

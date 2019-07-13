@@ -1,3 +1,7 @@
+puts "-" * 30
+puts "Exercise 2: Comments and Pound (Octothorpe) Characters"
+puts "-" * 30
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by ruby.
 

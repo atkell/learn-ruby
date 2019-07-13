@@ -1,3 +1,7 @@
+puts "-" * 30
+puts "Exercise 1: A Good First Program"
+puts "-" * 30
+
 # puts "Hello World!"
 # puts "Hello Again"
 # puts "I like typing this."
