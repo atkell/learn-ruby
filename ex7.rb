@@ -2,9 +2,12 @@ puts "-" * 30
 puts "Exercise 7: More Printing"
 puts "-" * 30
 
+# Print out a series of strings with 'puts'
 puts "Mary had a little lamb."
+# Notice how we include a string within the formatting syntax, #{}
 puts "Its fleece was white as #{'snow'}."
 puts "And everywhere that Mary went."
+# print out this character 10 times
 puts "." * 10 # what'd that do?
 
 end1 = "C"
