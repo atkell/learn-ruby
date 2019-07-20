@@ -22,7 +22,7 @@ music = gets.chomp
 print "Would you like to go to bed now? (Do or Don't) "
 sleepy_time = gets.chomp
 
-puts "So you're listening to #{music} and you #{sleepy_time} to go to sleep."
+puts "So you're listening to #{music} and you #{sleepy_time} want to go to sleep."
 
 # How do I get a number from someone so I can do math?
 # Try gets.chomp.to_i which says, "Get a string from the user, chomp off the \n, and convert it to an integer."
