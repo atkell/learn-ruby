@@ -31,8 +31,8 @@ puts "You: Yeah, I was thinking 10%"
 puts "Your friend: Wow, you're a terrible tipper. I always tip at least 20%"
 puts "You: Well, I'll tip 10%. Feel free to add another 10% on your own."
 
-puts "Beep, boop. I'm a tip calculator. I calculate tips. Beep, boop."
-puts "Please input the total cost of your meal: "
+puts "\nBeep, boop. I'm a tip calculator. I calculate tips. Beep, boop."
+puts "\nPlease input the total cost of your meal: "
 total = gets.chomp.to_f # turn this into a float to capture decimals
 
 puts """\nThanks! I've created a tip table below: 
