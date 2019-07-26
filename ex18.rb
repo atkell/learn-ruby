@@ -2,6 +2,15 @@ puts "-" * 30
 puts "Exercise 18: Names, Variables, Code, Functions"
 puts "-" * 30
 
+# The Function Checklist
+# - Function defitions with 'def'
+# - Function names contain letters and _'s
+# - Immediately after the function name comes (
+# - Immediately after that come arguments separated by commas
+# - Then the we close with a )
+# - The contents of the function are indented two spaces (Python is 4)
+# - The function ends with `end`
+
 # this one is like our scripts with ARGV
 def print_two(*args)
     arg1, arg2 = args
